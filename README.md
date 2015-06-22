@@ -11,7 +11,7 @@ You'll want to register an account and fork this repository to create your own c
 ### Visual Studio 2013 Tutorials
 - http://michaelcrump.net/setting-up-github-to-work-with-visual-studio-2013-step-by-step/
 
-There is also a plugin for the 2015 preview version that looks pretty good and easy to use.
+There is also a plugin for the 2015 preview version that looks pretty good.
 
 ### NetBeans Tutorials:
 - https://netbeans.org/kb/docs/ide/github_nb_screencast.html (Video)
