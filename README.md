@@ -3,7 +3,7 @@ I'm using NetBeans if we're doing this thing in JS. NetBeans works with GitHub b
 
 You can get NetBeans here(HTML 5 and PHP version is fine): https://netbeans.org/downloads/
 
-Feel free to make changes to this readme and pull them. Though I will police what is changed to keep it useable.
+Feel free to make changes to this readme and pull them. I will policing what is changed to keep it useable.
 
 ## Setting up for Github
 You'll want to register an account and fork this repository to create your own copy of the code. Once you have you're own repository you'll want to get your IDE setup to make changes to it.
