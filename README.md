@@ -1,5 +1,5 @@
 # ITPA-Game
-I'm using NetBeans if we're doing this thing in JS. NetBeans works with GitHub but if you find another IDE, such as Visual Studio, that works for you feel free to use it.
+I'm using NetBeans if we're doing this thing in JS. NetBeans works with GitHub but if you find another IDE that works for you feel free to use it, just make sure it can play nice with what everyone else is using.
 
 You can get NetBeans here(HTML 5 and PHP version is fine): https://netbeans.org/downloads/
 
@@ -7,11 +7,6 @@ Feel free to make changes to this readme and pull them. I will policing what is 
 
 ## Setting up for Github
 You'll want to register an account and fork this repository to create your own copy of the code. Once you have you're own repository you'll want to get your IDE setup to make changes to it.
-
-### Visual Studio 2013 Tutorials
-- http://michaelcrump.net/setting-up-github-to-work-with-visual-studio-2013-step-by-step/
-
-There is also a plugin for the 2015 preview version that looks pretty good.
 
 ### NetBeans Tutorials:
 - https://netbeans.org/kb/docs/ide/github_nb_screencast.html (Video)
