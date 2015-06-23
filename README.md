@@ -22,5 +22,5 @@ The basic idea is you would fork this repository to get a separate copy that onl
 TL;DR: We don't need to work in the same room for this to not become a clusterfuck.
 
 ## Usefull links
-NetBeans Download(HTML 5 and PHP version is fine): https://netbeans.org/downloads/
-HTML5 Game Dev Tutorials/Tools/Engines: http://www.html5gamedevelopment.com/
+- NetBeans Download(HTML 5 and PHP version is fine): https://netbeans.org/downloads/
+- HTML5 Game Dev Tutorials/Tools/Engines: http://www.html5gamedevelopment.com/
