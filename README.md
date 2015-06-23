@@ -18,10 +18,10 @@ You'll want to register an account and fork this repository to create your own c
 3. Clone your repo down to your local machine with NetBeans/other
 4. Make changes to the local copy and then commit and push them up to your repo on GitHub
 5. Make a pull request to merge your fork back into the master copy
-6. Wait for me to approve it (unless you've done something terrible i will)
-7. Start again at 2 (I think, still a bit unclear on this)
+6. Wait for me to approve it (unless you've done something terrible I will)
+7. Start again at 2
 
 ## Why use GitHub
-The basic idea is you would fork this repository to get a separate copy that only you can change. Once you've done whatever it is you want changed you can make a pull request to merge your fork back into this master copy and github will show me a what was changed. If I approve what is changed (and this is just gona be some random site so unless you break everything I likely will) Github will cleanly merge your new code even if other things have been changed to the master branch while you were working.
+The basic idea is you would fork this repository to get a separate copy that only you can change. Once you've done whatever it is you want changed you can make a pull request to merge your fork back into this master copy and github will show me a breakdown of what lines of code were changed/added/deleted. If I approve what is pull request Github will cleanly merge your new code even if other things have been changed to the master branch while you were working.
 
 TL;DR: We don't need to work in the same room for this to not become a clusterfuck.
