@@ -1,8 +1,6 @@
 # ITPA-Game
 I'm using NetBeans if we're doing this thing in JS. NetBeans works with GitHub but if you find another IDE that works for you feel free to use it, just make sure it can play nice with what everyone else is using.
 
-You can get NetBeans here(HTML 5 and PHP version is fine): https://netbeans.org/downloads/
-
 Feel free to make changes to this readme and pull them. I will policing what is changed to keep it useable.
 
 ## How to use GitHub
@@ -22,3 +20,7 @@ Feel free to make changes to this readme and pull them. I will policing what is 
 The basic idea is you would fork this repository to get a separate copy that only you can change. Once you've done whatever it is you want changed you can make a pull request to merge your fork back into this master copy and github will show me a breakdown of what lines of code were changed/added/deleted. If I approve what is pull request Github will cleanly merge your new code even if other things have been changed to the master branch while you were working.
 
 TL;DR: We don't need to work in the same room for this to not become a clusterfuck.
+
+## Usefull links
+NetBeans Download(HTML 5 and PHP version is fine): https://netbeans.org/downloads/
+HTML5 Game Dev Tutorials/Tools/Engines: http://www.html5gamedevelopment.com/
